@@ -6,7 +6,7 @@
 }
 
 body{
-    background: linear-gradient(135deg, #a3ffff, #ffaeff);
+    background: linear-gradient(135deg, #c1b0ff, #c1ffff);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -36,7 +36,7 @@ body{
 .form-box h2{
     text-align: center;
     margin-bottom: 30px;
-    color: #00b7ff;
+    color: #00b7ffs;
     font-size: 36px;
     font-weight: bold;
 }
